@@ -39,7 +39,7 @@ if (isset($_POST['num1'], $_POST['num2'], $_POST['calcular'])){
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login</title>
+    <title>calculadora</title>
     <style>
 
 
